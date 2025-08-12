@@ -17,7 +17,7 @@
   <strong>🤖 We're still cooking — Stay tuned! 🤖<br>⭐ Give us a star if you like it! ⭐</strong>
 </h3>
 
-<img src="evolve_tree.jpg" alt="Evolve Tree" width="500"/>
+<img src="./assets/evolve-tree.png" alt="Evolve Tree" width="500"/>
 <br>
 <em>Figure: A visual taxonomy of AI agent evolution and optimisation techniques, categorised into three major directions: single-agent optimisation, multi-agent optimisation, and domain-specific optimisation. The tree structure illustrates the development of these approaches from 2023 to 2025, including representative methods within each branch.</em>
 
