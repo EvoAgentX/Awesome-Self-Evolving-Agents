@@ -1,19 +1,27 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <strong>A Comprehensive Survey of Self-Evolving AI Agents<br>A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems</strong>
-</h1>
+</h1> -->
 
+<h1 align="center">
+  <strong>Awesome-Self-Evolving-Agents</strong>
+</h1>
 <div align="center">
+
 
 [![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/Arxiv-Self_Evoloving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents/pulls)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
 
-</div>
-
-<h2 align="center">
+<h3 align="center">
   <strong>🤖 We're still cooking — Stay tuned! 🤖<br>⭐ Give us a star if you like it! ⭐</strong>
-</h2>
+</h3>
+
+<img src="evolve_tree.jpg" alt="Evolve Tree" width="500"/>
+<br>
+<em>Figure: A visual taxonomy of AI agent evolution and optimisation techniques, categorised into three major directions: single-agent optimisation, multi-agent optimisation, and domain-specific optimisation. The tree structure illustrates the development of these approaches from 2023 to 2025, including representative methods within each branch.</em>
+
+</div>
 
 ## AI Agents Development Path
 
@@ -24,12 +32,6 @@
 ## Conceptual Framework of the Self-evolving AI Agents
 <p align="center">
   <img src="./assets/evolve-framework.png">
-</p>
-
-<p align="center">
-  <img src="evolve_tree.jpg" alt="Evolve Tree" width="500"/>
-  <br>
-  <em>Figure: A visual taxonomy of AI agent evolution and optimisation techniques, categorised into three major directions: single-agent optimisation, multi-agent optimisation, and domain-specific optimisation. The tree structure illustrates the development of these approaches from 2023 to 2025, including representative methods within each branch.</em>
 </p>
 
 ## Single-Agent Optimisation 
@@ -134,3 +136,31 @@
 - (*arXiv'23*) **Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark** — Pan et al. [[Paper\]](https://arxiv.org/abs/2304.03279) [arXiv](https://arxiv.org/abs/2304.03279)
 - (*arXiv'24*) **R-Judge: Benchmarking Safety Risk Awareness for LLM Judges** — Yuan et al. [[Paper\]](https://arxiv.org/abs/2401.10019) [Site] [arXiv](https://arxiv.org/abs/2401.10019)[rjudgebench.github.io](https://rjudgebench.github.io/)
 - (*Findings of ACL'25*) **SafeLawBench: Towards Safe Alignment of Large Language Models** — Cao et al. [[Paper\]](https://arxiv.org/abs/2506.06636) [arXiv](https://arxiv.org/abs/2506.06636)
+
+
+## 📚 Citation
+
+If you find this survey useful in your research and applications, please cite using this BibTeX:
+
+```
+@misc{fang2025comprehensivesurveyselfevolvingai,
+      title={A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems}, 
+      author={Jinyuan Fang and Yanwen Peng and Xi Zhang and Yingxu Wang and Xinhao Yi and Guibin Zhang and Yi Xu and Bin Wu and Siwei Liu and Zihao Li and Zhaochun Ren and Nikos Aletras and Xi Wang and Han Zhou and Zaiqiao Meng},
+      year={2025},
+      eprint={2508.07407},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2508.07407}, 
+}
+```
+
+## ☕ Acknowledgement
+
+We would like to thank Shuyu Guo for his valuable contributions to the early-stage exploration and literature
+review on agent optimisation.
+
+## ✉️ Contact Us
+
+If you have any questions or suggestions, please feel free to contact us via:
+
+Email: j.fang.2@research.gla.ac.uk and Zaiqiao.Meng@glasgow.ac.uk
