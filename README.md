@@ -26,12 +26,12 @@
 ## AI Agents Development Path
 
 <p align="center">
-  <img src="./assets/evolve-path.png">
+  <img src="./assets/evolve-path.png" alt="Development Path", width="500">
 </p>
 
 ## Conceptual Framework of the Self-evolving AI Agents
 <p align="center">
-  <img src="./assets/evolve-framework.png">
+  <img src="./assets/evolve-framework.png" alt="Conceptual Framework", width="500">
 </p>
 
 ## Single-Agent Optimisation 
