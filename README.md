@@ -85,3 +85,26 @@
 - (*Arxiv'24*) AutoFlow: Automated Workflow Generation for Large Language Model Agents [[Paper](https://arxiv.org/abs/2407.12821)] [[Code](https://github.com/agiresearch/AutoFlow)]
 - (*Arxiv'24*) Symbolic Learning Enables Self-Evolving Agents [[Paper](https://arxiv.org/abs/2406.18532)] [[Code](https://github.com/aiwaves-cn/agents)]
 - (*Arxiv'24*) Adaptive In-Conversation Team Building for Language Model Agents [[Paper](https://arxiv.org/abs/2405.19425)]
+
+## Evaluation
+### LLM-as-a-Judge
+
+- (*arXiv'24*) **Towards Better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications** — Arabzadeh et al. [[Paper\]](https://arxiv.org/abs/2402.09015) [arXiv](https://arxiv.org/abs/2402.09015)
+- (*arXiv'24*) **LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods** — Li et al. [[Paper\]](https://arxiv.org/abs/2412.05579) [arXiv](https://arxiv.org/abs/2412.05579)
+- (*2025*) **Enhancing LLM-as-a-Judge via Multi-Agent Collaboration (CollabEval)** — Qian et al. [Paper] [Overview] [multiagents.org](https://multiagents.org/2025_artifacts/agentseval_enhancing_llm_as_a_judge_via_multi_agent_collaboration.pdf)[Amazon Science](https://www.amazon.science/publications/enhancing-llm-as-a-judge-via-multi-agent-collaboration)
+- (*arXiv'24*) **LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context** — Ruan et al. [[Paper\]](https://arxiv.org/abs/2412.17596) [arXiv](https://arxiv.org/abs/2412.17596)
+- (*arXiv'24*) **Auto-Arena: Automating LLM Evaluations with Agent Peer Debate and Committee Voting** — Zhao et al. [[Paper\]](https://arxiv.org/abs/2405.20267) [arXiv](https://arxiv.org/abs/2405.20267)
+- (*arXiv'25*) **MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation** — Wang et al. [[Paper\]](https://arxiv.org/abs/2502.12468) [arXiv](https://arxiv.org/abs/2502.12468)
+
+### Agent-as-a-Judge
+
+- (*arXiv'24*) **Agent-as-a-Judge: Evaluate Agents with Agents** — Zhuge et al. [[Paper\]](https://arxiv.org/abs/2410.10934) [arXiv](https://arxiv.org/abs/2410.10934)
+
+### Safety, Alignment, and Robustness for Lifelong / Self-Evolving Agents
+
+- (*arXiv'24*) **AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents** — Andriushchenko et al. [[Paper\]](https://arxiv.org/abs/2410.09024) [arXiv](https://arxiv.org/abs/2410.09024)
+- (*NeurIPS'24 – Datasets & Benchmarks*) **RedCode: Risky Code Execution and Generation** — Guo et al. [[Paper\]](https://arxiv.org/abs/2411.07781) [arXiv](https://arxiv.org/abs/2411.07781)
+- (*arXiv'24*) **MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control** — Lee et al. [[Paper\]](https://arxiv.org/abs/2410.17520) [Site] [arXiv](https://arxiv.org/abs/2410.17520)[mobilesafetybench.github.io](https://mobilesafetybench.github.io/)
+- (*arXiv'23*) **Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark** — Pan et al. [[Paper\]](https://arxiv.org/abs/2304.03279) [arXiv](https://arxiv.org/abs/2304.03279)
+- (*arXiv'24*) **R-Judge: Benchmarking Safety Risk Awareness for LLM Judges** — Yuan et al. [[Paper\]](https://arxiv.org/abs/2401.10019) [Site] [arXiv](https://arxiv.org/abs/2401.10019)[rjudgebench.github.io](https://rjudgebench.github.io/)
+- (*Findings of ACL'25*) **SafeLawBench: Towards Safe Alignment of Large Language Models** — Cao et al. [[Paper\]](https://arxiv.org/abs/2506.06636) [arXiv](https://arxiv.org/abs/2506.06636)
