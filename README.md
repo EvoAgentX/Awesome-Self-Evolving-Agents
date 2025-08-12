@@ -1,5 +1,5 @@
 <h1 align="center">
-  <strong>Awesome-Self-Evolving-Agents</strong>
+  <strong>A Comprehensive Survey of Self-Evolving AI Agents<br>A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems</strong>
 </h1>
 
 <div align="center">
