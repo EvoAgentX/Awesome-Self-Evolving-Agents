@@ -1,4 +1,30 @@
-# Awesome-Self-Evolving-Agents
+<h1 align="center">
+  <strong>Awesome-Self-Evolving-Agents</strong>
+</h1>
+
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
+[![arXiv](https://img.shields.io/badge/Arxiv-Self_Evoloving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
+[![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents/pulls)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
+
+</div>
+
+<h2 align="center">
+  <strong>🤖 We're still cooking — Stay tuned! 🤖<br>⭐ Give us a star if you like it! ⭐</strong>
+</h2>
+
+## AI Agents Development Path
+
+<p align="center">
+  <img src="./assets/evolve-path.png">
+</p>
+
+## Conceptual Framework of the Self-evolving AI Agents
+<p align="center">
+  <img src="./assets/evolve-framework.png">
+</p>
 
 ## Datasets, Benchmarks & Surveys
 - (*ICLR'25*) Benchmarking Agentic Workflow Generation [[Paper](https://openreview.net/forum?id=vunPXOFmoi)]
