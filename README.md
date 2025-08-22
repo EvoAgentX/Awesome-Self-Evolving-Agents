@@ -11,6 +11,7 @@
 [![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/Arxiv-Self_Evoloving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents/pulls)
+[![GitHub star chart](https://img.shields.io/github/stars/EvoAgentX/Awesome-Self-Evolving-Agents?style=social)](https://star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
 
 <h3 align="center">
@@ -141,6 +142,8 @@
 - (*arXiv'24*) R-Judge: Benchmarking Safety Risk Awareness for LLM Judges — Yuan et al. [[Paper](https://arxiv.org/abs/2401.10019)] [[rjudgebench.github.io](https://rjudgebench.github.io/)]
 - (*Findings of ACL'25*) SafeLawBench: Towards Safe Alignment of Large Language Models — Cao et al. [[Paper](https://arxiv.org/abs/2506.06636) ]
 
+[![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/Awesome-Self-Evolving-Agents&Date&type=Date)](https://www.star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents&Date&Date)
+
 
 ## 📚 Citation
 
@@ -157,6 +160,7 @@ If you find this survey useful in your research and applications, please cite us
       url={https://arxiv.org/abs/2508.07407}, 
 }
 ```
+
 
 ## ☕ Acknowledgement
 
