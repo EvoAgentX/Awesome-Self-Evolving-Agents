@@ -58,6 +58,7 @@
 - (*EACL'23*) GrIPS: Gradient-free, Edit-based Instruction Search for Prompting Large Language Models [[Paper](https://arxiv.org/abs/2203.07281)]
 - (*ICLR'23*) TEMPERA: Test-Time Prompting via Reinforcement Learning [[Paper](https://arxiv.org/abs/2211.11890)] [[Code](https://github.com/tianjunz/TEMPERA)]
 - (*EMNLP'23*) Automatic Prompt Optimization with "Gradient Descent" and Beam Search [[Paper](https://arxiv.org/abs/2305.03495)] 
+- (*Findings of ACL'24*) Plum: Prompt Learning using Metaheuristic [[Paper](https://arxiv.org/abs/2311.08364)] [[Code](https://github.com/research4pan/Plum)]
 - (*EMNLP'24*) Optimizing Instructions and Demonstrations for Multi-Stage Language Model Programs [[Paper](https://doi.org/10.18653/v1/2024.emnlp-main.525)]
 - (*EMNLP'24*) GPS: Genetic Prompt Search for Efficient Few-shot Learning [[Paper](https://arxiv.org/abs/2210.17041)] [[Code](https://github.com/hwxu20/GPS)]
 - (*ICLR'23*) Large Language Models Are Human-Level Prompt Engineers [[Paper](https://arxiv.org/abs/2211.01910)] [[Code](https://github.com/keirp/automatic_prompt_engineer)]
@@ -96,6 +97,7 @@
 
 ## Multi-Agent Optimisation 
 - (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[Paper](https://doi.org/10.48550/arXiv.2502.04180)][[Code](https://github.com/bingreeky/MaAS)]
+- (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[Paper](https://arxiv.org/abs/2503.03205)]
 - (*ICLR'25*) AFlow: Automating Agentic Workflow Generation [[Paper](https://arxiv.org/abs/2410.10762)] [[Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)]
 - (*ICLR'25*) WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models [[Paper](https://openreview.net/forum?id=3Hy00Wvabi)]
 - (*ICLR'25*) Flow: Modularized Agentic Workflow Automation [[Paper](https://openreview.net/forum?id=sLKDbuyq99)]
