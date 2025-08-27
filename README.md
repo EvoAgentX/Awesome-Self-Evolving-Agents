@@ -133,9 +133,12 @@
 - (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
 - (*Arxiv'25*) ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [[📝 Paper](https://arxiv.org/abs/2504.11536)] [[💻 Code](https://github.com/ReTool-RL/ReTool)] 
 - (*Arxiv'25*) ToolRL: Reward is All Tool Learning Needs [[📝 Paper](https://arxiv.org/abs/2504.13958)] [[💻 Code](https://github.com/qiancheng0/ToolRL)] 
-- (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)] 
+- (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)]
 
-## Multi-Agent Optimisation 
+### 1.5 🧰 Unified Optimization
+- (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)] [[💻 Code](https://github.com/ECNU-ICALK/ELL-StuLife)]
+
+## 2. Multi-Agent Optimisation 
 - (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)][[💻 Code](https://github.com/bingreeky/MaAS)]
 - (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[📝 Paper](https://arxiv.org/abs/2503.03205)]
 - (*ICLR'25*) AFlow: Automating Agentic Workflow Generation [[📝 Paper](https://arxiv.org/abs/2410.10762)] [[💻 Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)]
@@ -161,22 +164,54 @@
 - (*Arxiv'24*) Symbolic Learning Enables Self-Evolving Agents [[📝 Paper](https://arxiv.org/abs/2406.18532)] [[💻 Code](https://github.com/aiwaves-cn/agents)]
 - (*Arxiv'24*) Adaptive In-Conversation Team Building for Language Model Agents [[📝 Paper](https://arxiv.org/abs/2405.19425)]
 
-## Evaluation
+## 3. Evaluation 
 
-### ⚖️ LLM-as-a-Judge
+### 3.1 📈 Benchmark-Based Evaluation 
 
-- (*Arxiv'24*) Towards Better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications — Arabzadeh et al. [[📝 Paper](https://arxiv.org/abs/2402.09015) ]
-- (*Arxiv'24*) LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods — Li et al. [[📝 Paper](https://arxiv.org/abs/2412.05579)]
-- (*2025*) Enhancing LLM-as-a-Judge via Multi-Agent Collaboration (CollabEval) — Qian et al. [[📝 Paper](https://www.amazon.science/publications/enhancing-llm-as-a-judge-via-multi-agent-collaboration)]
-- (*Arxiv'24*) LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context — Ruan et al. [[📝 Paper](https://arxiv.org/abs/2412.17596) ]
-- (*Arxiv'24*) Auto-Arena: Automating LLM Evaluations with Agent Peer Debate and Committee Voting — Zhao et al. [[📝 Paper](https://arxiv.org/abs/2405.20267) ]
-- (*Arxiv'25*) MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation — Wang et al. [[📝 Paper](https://arxiv.org/abs/2502.12468)]
+#### 3.1.1 📌 Tool and API-Driven Agents 
+- (*Arxiv'23*) On the Tool Manipulation Capability of Open-source Large Language Models [[📝 Paper](https://arxiv.org/abs/2305.16504)] [[💻 Code](https://github.com/sambanova/toolbench)]
+- (*EMNLP'23*) API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[📝 Paper](https://arxiv.org/abs/2304.08244)] [[💻 Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
+- (*NeurIPS'23*) ToolQA: A Dataset for LLM Question Answering with External Tools [[📝 Paper](https://arxiv.org/abs/2306.13304)] [[💻 Code](https://github.com/night-chen/ToolQA)]
+- (*ICLR'24*) MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use
+ [[📝 Paper](https://arxiv.org/abs/2310.03128)] [[💻 Code](https://github.com/HowieHwong/MetaTool)] 
 
-### ⚖️ Agent-as-a-Judge
+#### 3.1.2 📌 Web Navigation and Browsing Agents 
+- (*ICLR'24*) WebArena: A Realistic Web Environment for Building Autonomous Agents [[📝 Paper](https://arxiv.org/abs/2307.13854)] [[💻 Code](https://github.com/web-arena-x/webarena)]
+- (*Arxiv'25*) BrowseComp: A Simple Yet Challenging Benchmark for Browsing Agents [[📝 Paper](https://arxiv.org/abs/2504.12516)] [[💻 Code](https://github.com/openai/simple-evals)]
+- (*ACL'25*) WebWalker: Benchmarking LLMs in Web Traversal [[📝 Paper](https://arxiv.org/abs/2501.07572)] [[💻 Code](https://github.com/Alibaba-NLP/WebAgent)]
 
-- (*Arxiv'24*) Agent-as-a-Judge: Evaluate Agents with Agents — Zhuge et al. [[📝 Paper](https://arxiv.org/abs/2410.10934)]
+#### 3.1.3 📌 Multi-Agent Collaboration and Generalists 
+- (*ICLR'23*) GAIA: a benchmark for General AI Assistants [[📝 Paper](https://arxiv.org/abs/2311.12983)] [[💻 Code](https://huggingface.co/gaia-benchmark)]
+- (*ICLR'24*) AgentBench: Evaluating LLMs as Agents [[📝 Paper](https://arxiv.org/abs/2308.03688)] [[💻 Code](https://github.com/THUDM/AgentBench)]
+- (*Arxiv'25*) MultiAgentBench: Evaluating the Collaboration and Competition of LLM agents [[📝 Paper](https://arxiv.org/abs/2503.01935)] [[💻 Code](https://github.com/MultiagentBench/MARBLE)]
+- (*Arxiv'25*) Benchmarking LLMs' Swarm intelligence [[📝 Paper](https://arxiv.org/abs/2505.04364)] [[💻 Code](https://github.com/RUC-GSAI/YuLan-SwarmIntell)]
 
-### 🛡️ Safety, Alignment, and Robustness for Lifelong / Self-Evolving Agents
+#### 3.1.4 📌 GUI and Multimodal Environment Agents
+- (*ACL'24*) Mobile-Bench: An Evaluation Benchmark for LLM-based Mobile Agents [[📝 Paper](https://arxiv.org/abs/2407.00993)] [[💻 Code](https://github.com/XiaoMi/MobileBench)]
+- (*NeurIPS'24*) OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [[📝 Paper](https://arxiv.org/abs/2404.07972)] [[💻 Code](https://github.com/xlang-ai/OSWorld)]
+- (*ICLR'25*) AndroidWorld: A Dynamic Benchmarking Environment for Autonomous Agents [[📝 Paper](https://arxiv.org/abs/2405.14573)] [[💻 Code](https://github.com/google-research/android_world)]
+
+#### 3.1.4 📌 Domain-Specific Tasks 
+- (*NeurIPS'23*) OpenAGI: When LLM Meets Domain Experts [[📝 Paper](https://arxiv.org/abs/2304.04370)] [[💻 Code](https://github.com/agiresearch/OpenAGI)]
+- (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [[📝 Paper](https://arxiv.org/abs/2310.06770)] [[💻 Code](https://github.com/SWE-bench/SWE-bench)]
+- (*Arxiv'25*) DataSciBench: An LLM Agent Benchmark for Data Science [[📝 Paper](https://arxiv.org/abs/2502.13897)] [[💻 Code](https://github.com/THUDM/DataSciBench)]
+- (*Arxiv'25*) MLGym: A New Framework and Benchmark for Advancing AI Research Agents [[📝 Paper](https://arxiv.org/abs/2502.14499)] [[💻 Code](https://github.com/facebookresearch/MLGym)]
+
+### 3.2 ⚖️ LLM-Based Evaluation 
+
+#### 3.2.1 📌 LLM-as-a-Judge
+
+- (*Arxiv'24*) Towards Better Human-Agent Alignment: Assessing Task Utility in LLM-Powered Applications [[📝 Paper](https://arxiv.org/abs/2402.09015)] 
+- (*Arxiv'24*) LLMs-as-Judges: A Comprehensive Survey on LLM-based Evaluation Methods [[📝 Paper](https://arxiv.org/abs/2412.05579)]
+- (*Arxiv'25*) LiveIdeaBench: Evaluating LLMs’ Divergent Thinking for Scientific Idea Generation with Minimal Context [[📝 Paper](https://arxiv.org/abs/2412.17596)] [[💻 Code](https://github.com/x66ccff/liveideabench)]
+- (*ACL'25*) Auto-Arena: Automating LLM Evaluations with Agent Peer Debate and Committee Voting [[📝 Paper](https://arxiv.org/abs/2405.20267)] [[💻 Code](https://github.com/DAMO-NLP-SG/Auto-Arena-LLMs)]
+- (*Arxiv'25*) MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation [[📝 Paper](https://arxiv.org/abs/2502.12468)]
+
+#### 3.2.2 📌 Agent-as-a-Judge
+
+- (*Arxiv'24*) Agent-as-a-Judge: Evaluate Agents with Agents [[📝 Paper](https://arxiv.org/abs/2410.10934)] [[💻 Code](https://github.com/metauto-ai/agent-as-a-judge)]
+
+### 3.3 🛡 Safety, Alignment, and Robustness for Lifelong / Self-Evolving Agents
 
 - (*Arxiv'24*) AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents [[📝 Paper](https://arxiv.org/abs/2410.09024) ]
 - (*NeurIPS'24 – Datasets & Benchmarks*) RedCode: Risky Code Execution and Generation [[📝 Paper](https://arxiv.org/abs/2411.07781) ]
@@ -193,14 +228,11 @@
 If you find this survey useful in your research and applications, please cite using this BibTeX:
 
 ```
-@misc{fang2025comprehensivesurveyselfevolvingai,
-      title={A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems}, 
-      author={Jinyuan Fang and Yanwen Peng and Xi Zhang and Yingxu Wang and Xinhao Yi and Guibin Zhang and Yi Xu and Bin Wu and Siwei Liu and Zihao Li and Zhaochun Ren and Nikos Aletras and Xi Wang and Han Zhou and Zaiqiao Meng},
-      year={2025},
-      eprint={2508.07407},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={https://arxiv.org/abs/2508.07407}, 
+@article{fang2025comprehensive,
+  title={A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems},
+  author={Fang, Jinyuan and Peng, Yanwen and Zhang, Xi and Wang, Yingxu and Yi, Xinhao and Zhang, Guibin and Xu, Yi and Wu, Bin and Liu, Siwei and Li, Zihao and others},
+  journal={arXiv preprint arXiv:2508.07407},
+  year={2025}
 }
 ```
 
