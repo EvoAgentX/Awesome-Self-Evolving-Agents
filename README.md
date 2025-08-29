@@ -36,7 +36,7 @@
 </p>
 
 ## Open-Source Framework
-- **EvoAgentX**: [[https://github.com/EvoAgentX/EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)] [[paper](https://arxiv.org/abs/2507.03616)]
+- **EvoAgentX**: [[https://github.com/EvoAgentX/EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 
 
 ## 1. Single-Agent Optimisation 
@@ -123,7 +123,8 @@
 - (*ICLR'25*) Boosting knowledge intensive reasoning of llms via inference-time hybrid information [[📝 Paper](https://arxiv.org/abs/2410.08815)] [[💻 Code](https://github.com/icip-cas/StructRAG)]
 - (*ACL'25*) Improving factuality with explicit working memory [[📝 Paper](https://arxiv.org/abs/2412.18069)]
 - (*Arxiv'25*) A-MEM: Agentic Memory for LLM Agents [[📝 Paper](https://arxiv.org/abs/2502.12110)]
-- (*Arxiv'25*) Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2504.19413)] 
+- (*Arxiv'25*) Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2504.19413)]
+- (Arxiv'25) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [[📝 Paper](https://www.arxiv.org/abs/2508.16153)] [[💻 Code](https://github.com/Agent-on-the-Fly/Memento)]
 
 ### 1.4 🧰 Tool Optimization
 - (*EMNLP'23*) CREATOR : Tool creation for disentangling abstract and concrete reasoning of large language model [[📝 Paper](https://arxiv.org/abs/2305.14318)] [[💻 Code](https://github.com/qiancheng0/CREATOR)]
@@ -134,12 +135,13 @@
 - (*Arxiv'25*) ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [[📝 Paper](https://arxiv.org/abs/2504.11536)] [[💻 Code](https://github.com/ReTool-RL/ReTool)] 
 - (*Arxiv'25*) ToolRL: Reward is All Tool Learning Needs [[📝 Paper](https://arxiv.org/abs/2504.13958)] [[💻 Code](https://github.com/qiancheng0/ToolRL)] 
 - (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)]
+- (*Arxiv'25*) SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience [[📝 Paper](https://arxiv.org/abs/2508.04700)]
 
 ### 1.5 🧰 Unified Optimization
 - (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)] [[💻 Code](https://github.com/ECNU-ICALK/ELL-StuLife)]
 
 ## 2. Multi-Agent Optimisation 
-- (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)][[💻 Code](https://github.com/bingreeky/MaAS)]
+- (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)] [[💻Code](https://github.com/bingreeky/MaAS)]
 - (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[📝 Paper](https://arxiv.org/abs/2503.03205)]
 - (*ICLR'25*) AFlow: Automating Agentic Workflow Generation [[📝 Paper](https://arxiv.org/abs/2410.10762)] [[💻 Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)]
 - (*ICLR'25*) WorkflowLLM: Enhancing Workflow Orchestration Capability of Large Language Models [[📝 Paper](https://openreview.net/forum?id=3Hy00Wvabi)]
@@ -167,6 +169,8 @@
 ## 3. Evaluation 
 
 ### 3.1 📈 Benchmark-Based Evaluation 
+
+- (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)]
 
 #### 3.1.1 📌 Tool and API-Driven Agents 
 - (*Arxiv'23*) On the Tool Manipulation Capability of Open-source Large Language Models [[📝 Paper](https://arxiv.org/abs/2305.16504)] [[💻 Code](https://github.com/sambanova/toolbench)]
@@ -196,6 +200,8 @@
 - (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [[📝 Paper](https://arxiv.org/abs/2310.06770)] [[💻 Code](https://github.com/SWE-bench/SWE-bench)]
 - (*Arxiv'25*) DataSciBench: An LLM Agent Benchmark for Data Science [[📝 Paper](https://arxiv.org/abs/2502.13897)] [[💻 Code](https://github.com/THUDM/DataSciBench)]
 - (*Arxiv'25*) MLGym: A New Framework and Benchmark for Advancing AI Research Agents [[📝 Paper](https://arxiv.org/abs/2502.14499)] [[💻 Code](https://github.com/facebookresearch/MLGym)]
+- (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [📝 Paper](https://arxiv.org/abs/2507.02004)
+- (*Arxiv'25*) EarthLink: A Self-Evolving AI Agent for Climate Science [📝 Paper](https://arxiv.org/abs/2507.17311)[🖥️System](https://earthlink.intern-ai.org.cn/)
 
 ### 3.2 ⚖️ LLM-Based Evaluation 
 
@@ -215,7 +221,7 @@
 
 - (*Arxiv'24*) AgentHarm: A Benchmark for Measuring Harmfulness of LLM Agents [[📝 Paper](https://arxiv.org/abs/2410.09024) ]
 - (*NeurIPS'24 – Datasets & Benchmarks*) RedCode: Risky Code Execution and Generation [[📝 Paper](https://arxiv.org/abs/2411.07781) ]
-- (*Arxiv'24*) MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control [[📝 Paper](https://arxiv.org/abs/2410.17520)] [[mobilesafetybench.github.io](https://mobilesafetybench.github.io/)]
+- (*Arxiv'24*) MobileSafetyBench: Evaluating Safety of Autonomous Agents in Mobile Device Control [[📝 Paper](https://arxiv.org/abs/2410.17520)] [[💻 Code](https://mobilesafetybench.github.io/)]
 - (*Arxiv'23*) Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark [[📝 Paper](https://arxiv.org/abs/2304.03279) ]
 - (*Arxiv'24*) R-Judge: Benchmarking Safety Risk Awareness for LLM Judges [[📝 Paper](https://arxiv.org/abs/2401.10019)] [[💻 Code](https://rjudgebench.github.io/)]
 - (*ACL'25*) SafeLawBench: Towards Safe Alignment of Large Language Models [[📝 Paper](https://arxiv.org/abs/2506.06636) ]
