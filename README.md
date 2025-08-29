@@ -165,6 +165,8 @@
 - (*Arxiv'24*) AutoFlow: Automated Workflow Generation for Large Language Model Agents [[📝 Paper](https://arxiv.org/abs/2407.12821)] [[💻 Code](https://github.com/agiresearch/AutoFlow)]
 - (*Arxiv'24*) Symbolic Learning Enables Self-Evolving Agents [[📝 Paper](https://arxiv.org/abs/2406.18532)] [[💻 Code](https://github.com/aiwaves-cn/agents)]
 - (*Arxiv'24*) Adaptive In-Conversation Team Building for Language Model Agents [[📝 Paper](https://arxiv.org/abs/2405.19425)]
+- (*Arxiv'25*) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL [[📝 Paper](https://arxiv.org/abs/2508.13167)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models)]
+- (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [[📝 Paper](https://arxiv.org/abs/2507.06229)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB)]
 
 ## 3. Evaluation 
 
