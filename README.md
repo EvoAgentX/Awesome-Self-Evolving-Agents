@@ -202,6 +202,7 @@
 - (*Arxiv'25*) MLGym: A New Framework and Benchmark for Advancing AI Research Agents [[📝 Paper](https://arxiv.org/abs/2502.14499)] [[💻 Code](https://github.com/facebookresearch/MLGym)]
 - (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [📝 Paper](https://arxiv.org/abs/2507.02004)
 - (*Arxiv'25*) EarthLink: A Self-Evolving AI Agent for Climate Science [📝 Paper](https://arxiv.org/abs/2507.17311)[🖥️System](https://earthlink.intern-ai.org.cn/)
+- (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration \[[📝 Paper](https://arxiv.org/abs/2505.15047)] \[[💻 Code](https://github.com/amair-lab/PiFlow)]
 
 ### 3.2 ⚖️ LLM-Based Evaluation 
 
