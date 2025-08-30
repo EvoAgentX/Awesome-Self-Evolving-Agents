@@ -36,7 +36,8 @@
 </p>
 
 ## Open-Source Framework
-- **EvoAgentX**: [[https://github.com/EvoAgentX/EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
+- (*Arxiv'25*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
+ [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 
 
 ## 1. Single-Agent Optimisation 
@@ -205,6 +206,7 @@
 - (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [📝 Paper](https://arxiv.org/abs/2507.02004)
 - (*Arxiv'25*) EarthLink: A Self-Evolving AI Agent for Climate Science [📝 Paper](https://arxiv.org/abs/2507.17311)[🖥️System](https://earthlink.intern-ai.org.cn/)
 - (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration \[[📝 Paper](https://arxiv.org/abs/2505.15047)] \[[💻 Code](https://github.com/amair-lab/PiFlow)]
+- (Arxiv’25) AlphaEvolve: A coding agent for scientific and algorithmic discovery [[📝 Paper](https://arxiv.org/abs/2506.13131)] \[[💻 Code](https://github.com/codelion/openevolve)]
 
 ### 3.2 ⚖️ LLM-Based Evaluation 
 
