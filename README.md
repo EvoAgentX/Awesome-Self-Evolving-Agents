@@ -136,7 +136,7 @@
 - (*Arxiv'25*) ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [[📝 Paper](https://arxiv.org/abs/2504.11536)] [[💻 Code](https://github.com/ReTool-RL/ReTool)] 
 - (*Arxiv'25*) ToolRL: Reward is All Tool Learning Needs [[📝 Paper](https://arxiv.org/abs/2504.13958)] [[💻 Code](https://github.com/qiancheng0/ToolRL)] 
 - (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)]
-- (*Arxiv'25*) SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience [[📝 Paper](https://arxiv.org/abs/2508.04700)]
+- (*Arxiv'25*) SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience [[📝 Paper](https://arxiv.org/abs/2508.04700)][[💻 Code](https://github.com/SunzeY/SEAgent)]
 
 ### 1.5 🧰 Unified Optimization
 - (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)] [[💻 Code](https://github.com/ECNU-ICALK/ELL-StuLife)]
