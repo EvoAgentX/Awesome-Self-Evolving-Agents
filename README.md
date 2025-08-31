@@ -137,15 +137,49 @@
 
 
 ### 1.4 🧰 Tool Optimization
-- (*EMNLP'23*) CREATOR : Tool creation for disentangling abstract and concrete reasoning of large language model [[📝 Paper](https://arxiv.org/abs/2305.14318)] [[💻 Code](https://github.com/qiancheng0/CREATOR)]
-- (*ICLR'24*) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[📝 Paper](https://arxiv.org/abs/2307.16789)] [[💻 Code](https://github.com/beijixiong1/ToolLLM)]
-- (*ICML'24*) Offline Training of Language Model Agents with Functions as Learnable Weights [[📝 Paper](https://arxiv.org/abs/2402.11359)] 
-- (*AAAI'24*) Iterative tool learning from introspection feedback by easy-to-difficult curriculum [[📝 Paper](https://arxiv.org/abs/2308.14034)] [[💻 Code](https://github.com/shizhl/Confucius)] 
-- (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
+
+#### 1.4.1 📌 Training-Based Tool Optimisation
+
+##### (1) Supervised Fine-Tuning for Tool Optimisation 
+- (*NeurIPS'23*) GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [[📝 Paper](https://arxiv.org/abs/2305.18752)] [[💻 Code](https://github.com/AILab-CVC/GPT4Tools)] 
+- (*ICLR'24*) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[📝 Paper](https://arxiv.org/abs/2307.16789)] [[💻 Code](https://github.com/OpenBMB/ToolBench)]
+- (*ACL'24*) LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error [[📝 Paper](https://arxiv.org/abs/2403.04746)] [[💻 Code](https://github.com/microsoft/simulated-trial-and-error)]
+- (*AAAI'24*) Confucius: Iterative tool learning from introspection feedback by easy-to-difficult curriculum [[📝 Paper](https://arxiv.org/abs/2308.14034)] [[💻 Code](https://github.com/shizhl/Confucius)]
+- (*ICLR'25*) Learning Evolving Tools for Large Language Models [[📝 Paper](https://arxiv.org/abs/2410.06617)] [[💻 Code](https://github.com/Chen-GX/ToolEVO)] 
+- (*ICLR'25*) Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning [[📝 Paper](https://arxiv.org/abs/2410.12952)] [[💻 Code](https://github.com/PKU-Baichuan-MLSystemLab/BUTTON)] 
+- (*ICLR'25*) Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage [[📝 Paper](https://arxiv.org/abs/2412.15606)] [[💻 Code](https://github.com/mat-agent/MAT-Agent)] 
+- (*Arxiv'25*) Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation [[📝 Paper](https://arxiv.org/abs/2503.07826)] 
+
+
+##### (2) Reinforcement Learning for Tool Optimisation 
 - (*Arxiv'25*) ReTool: Reinforcement Learning for Strategic Tool Use in LLMs [[📝 Paper](https://arxiv.org/abs/2504.11536)] [[💻 Code](https://github.com/ReTool-RL/ReTool)] 
-- (*Arxiv'25*) ToolRL: Reward is All Tool Learning Needs [[📝 Paper](https://arxiv.org/abs/2504.13958)] [[💻 Code](https://github.com/qiancheng0/ToolRL)] 
+- (*Arxiv'25*) ToolRL: Reward is All Tool Learning Needs [[📝 Paper](https://arxiv.org/abs/2504.13958)] [[💻 Code](https://github.com/qiancheng0/ToolRL)]
+- (*Arxiv'25*) Nemotron-Research-Tool-N1: Exploring Tool-Using Language Models with Reinforced Reasoning [[📝 Paper](https://arxiv.org/abs/2505.00024)] [[💻 Code](https://github.com/NVlabs/Tool-N1)] 
+- (*Arxiv'25*) Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use [[📝 Paper](https://arxiv.org/abs/2504.04736)] 
+- (*Arxiv'25*) Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/SPORT-Agents/SPORT-Agents)]  
+- (*Arxiv'25*) Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2505.16410)] [[💻 Code](https://github.com/RUC-NLPIR/Tool-Star)] 
+- (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
+
+
+#### 1.4.2 📌 Inference-Time Tool Optimisation 
+
+##### (1) Prompt-Based Optimisation 
+- (*NAACL'25*) EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[📝 Paper](https://arxiv.org/abs/2401.06201)] [[💻 Code](https://github.com/microsoft/JARVIS/tree/main/easytool)]
+- (*ICLR'25*) From Exploration to Mastery: Enabling LLMs to Master Tools via Self-Driven Interactions [[📝 Paper](https://arxiv.org/abs/2410.08197)] [[💻 Code](https://github.com/quchangle1/DRAFT)] 
+- (*ACL'25*) Zero-shot Tool Instruction Optimization for LLM Agents via Tool Play [[📝 Paper](https://arxiv.org/abs/2503.14432)] [[💻 Code](https://github.com/wfangtw/play2prompt)] 
+
+##### (2) Reasoning-Based Optimisation 
+- (*ICLR'24*) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[📝 Paper](https://arxiv.org/abs/2307.16789)] [[💻 Code](https://github.com/beijixiong1/ToolLLM)]
+- (*ICLR'24*) ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search [[📝 Paper](https://arxiv.org/abs/2310.13227)] 
+- (*ICLR'25*) Tool-Planner: Task Planning with Clusters across Multiple Tools [[📝 Paper](https://arxiv.org/abs/2406.03807)] [[💻 Code](https://github.com/OceannTwT/Tool-Planner)] 
+- (*Arxiv'25*) MCP-Zero: Active Tool Discovery for Autonomous LLM Agents [[📝 Paper](https://arxiv.org/abs/2506.01056)][[💻 Code](https://github.com/xfey/MCP-Zero)]
+
+
+#### 1.4.3 📌 Tool Functionality Optimisation 
+- (*EMNLP'23*) CREATOR : Tool creation for disentangling abstract and concrete reasoning of large language model [[📝 Paper](https://arxiv.org/abs/2305.14318)] [[💻 Code](https://github.com/qiancheng0/CREATOR)]
+- (*ICML'24*) Offline Training of Language Model Agents with Functions as Learnable Weights [[📝 Paper](https://arxiv.org/abs/2402.11359)]
+- (*CVPR'24*) CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [[📝 Paper](https://arxiv.org/abs/2312.10908)] [[💻 Code](https://github.com/clova-tool/CLOVA-tool)]
 - (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)]
-- (*Arxiv'25'*) MCP-Zero: Active Tool Discovery for Autonomous LLM Agents [[📝 Paper](https://arxiv.org/abs/2506.01056)][[💻 Code](https://github.com/xfey/MCP-Zero)] 
 
 
 ### 1.5 🧰 Unified Optimization
@@ -221,6 +255,8 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
  - (*ICLR'25*) OpenHands: An Open Platform for AI Software Developers as Generalist Agents [[📝 Paper](https://arxiv.org/abs/2407.16741)] [[💻 Code](https://github.com/All-Hands-AI/OpenHands)]
 - (*Arxiv'25*) CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation [[📝 Paper](https://arxiv.org/abs/2501.07811)]
 - (Arxiv’25) AlphaEvolve: A coding agent for scientific and algorithmic discovery [[📝 Paper](https://arxiv.org/abs/2506.13131)] [[💻 Code](https://github.com/codelion/openevolve)]
+- (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
+
 
 #### 3.2.2 📌 Code Debugging
 
