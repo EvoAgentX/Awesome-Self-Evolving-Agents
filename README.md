@@ -86,6 +86,10 @@
 - (*AAAI'24*) Graph of thoughts: Solving elaborate problems with large language models [[📝 Paper](https://arxiv.org/abs/2308.09687)] [[💻 Code](https://github.com/spcl/graph-of-thoughts)]
 - (*ICML'25*) Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning [[📝 Paper](https://arxiv.org/abs/2412.09078)] [[💻 Code](https://github.com/iamhankai/Forest-of-Thought)]
 
+##### （3）🔧 Reasoning-Based Approaches 
+- (*EMNLP’25*) START: Self‑taught Reasoner with Tools [[📝 Paper](https://arxiv.org/abs/2503.04625)]
+- (*ArXiv’25*) CoRT: Code‑integrated Reasoning within Thinking [[📝 Paper](https://arxiv.org/abs/2506.09820)] [[💻 Code](https://github.com/ChengpengLi1003/CoRT)]
+
 ### 1.2 💬 Prompt Optimisation
 
 #### 1.2.1 📌 Edit-Based Prompt Optimisation 
