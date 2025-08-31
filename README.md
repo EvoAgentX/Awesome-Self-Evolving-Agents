@@ -222,7 +222,7 @@
 
 #### 3.1.1 📌 Medical Diagnosis 
 
-- (*ICLR'24*) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [[📝 Paper](https://arxiv.org/abs/2407.02483)] [[💻 Code](https://github.com/Wangyixinxin/MMedAgent)]
+- (*EMNLP'24*) MMedAgent: Learning to Use Medical Tools with Multi-modal Agent [[📝 Paper](https://arxiv.org/abs/2407.02483)] [[💻 Code](https://github.com/Wangyixinxin/MMedAgent)]
 - (*NeurIPS'24*) MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making [[📝 Paper](https://arxiv.org/abs/2404.15155)] [[💻 Code](https://github.com/mitmedialab/MDAgents)]
 - (*Arxiv'25*) HealthFlow: A Self-Evolving AI Agent with Meta Planning for Autonomous Healthcare Research [[📝 Paper](https://arxiv.org/pdf/2508.02621)][[💻 Code](https://github.com/yhzhu99/HealthFlow)]
 - (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [[📝 Paper](https://arxiv.org/abs/2507.02004)][[💻 Code](https://github.com/zaixizhang/STELLA)]
