@@ -235,10 +235,11 @@ Medical Diagnosis via Reasoning Agentic Workflow <br> [[📝 Paper](https://arxi
 
 
 #### 3.1.2 📌  Molecular Discovery 
+
 - (*ACS omega'24*) CACTUS: Chemistry Agent Connecting Tool-Usage to Science [[📝 Paper](https://arxiv.org/abs/2405.00972)] [[💻 Code](https://github.com/pnnl/cactus)]
-- (*NMI'24*) Augmenting large language models with chemistry tools [[📝 Paper](https://arxiv.org/abs/2304.05376)] [[💻 Code](https://github.com/ur-whitelab/chemcrow-public)]
+- (*NMI'24*) ChemCrow: Augmenting large language models with chemistry tools [[📝 Paper](https://arxiv.org/abs/2304.05376)] [[💻 Code](https://github.com/ur-whitelab/chemcrow-public)]
 - (*ICLR'25*) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning[[📝 Paper](https://arxiv.org/abs/2501.06590)] [[💻 Code](https://github.com/gersteinlab/ChemAgent)]
-- (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents [[📝 Paper](https://iclr.cc/virtual/2025/poster/30683)]
+- (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents [[📝 Paper](https://openreview.net/forum?id=9YNyiCJE3k)]
 - (*Arxiv'25*) DrugAgent: Automating AI-aided Drug Discovery Programming through
 LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 - (*Arxiv'25*) LIDDIA: Language-based Intelligent Drug Discovery Agent [[📝 Paper](https://arxiv.org/abs/2502.13959)]
@@ -249,10 +250,9 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 #### 3.2.1 📌 Code Refinement 
 
 - (*Arxiv'23*) AgentCoder: Multi-Agent-based Code Generation with Iterative Testing and Optimisation [[📝 Paper](https://arxiv.org/abs/2312.13010)] [[💻 Code](https://github.com/huangd1999/AgentCoder)]
-- (*Arxiv'23*) Self-Refine: Iterative Refinement with Self-Feedback
- [[📝 Paper](https://arxiv.org/abs/2303.17651)] [[💻 Code](https://github.com/madaan/self-refine)]
- - (*EMNLP'24*) CodeAgent: Autonomous Communicative Agents for Code Review [[📝 Paper](https://aclanthology.org/2024.emnlp-main.632/)] [[💻 Code](https://github.com/Daniel4SE/codeagent)]
- - (*ICLR'25*) OpenHands: An Open Platform for AI Software Developers as Generalist Agents [[📝 Paper](https://arxiv.org/abs/2407.16741)] [[💻 Code](https://github.com/All-Hands-AI/OpenHands)]
+- (*Arxiv'23*) Self-Refine: Iterative Refinement with Self-Feedback [[📝 Paper](https://arxiv.org/abs/2303.17651)] [[💻 Code](https://github.com/madaan/self-refine)]
+- (*EMNLP'24*) CodeAgent: Autonomous Communicative Agents for Code Review [[📝 Paper](https://aclanthology.org/2024.emnlp-main.632/)] [[💻 Code](https://github.com/Daniel4SE/codeagent)]
+- (*ICLR'25*) OpenHands: An Open Platform for AI Software Developers as Generalist Agents [[📝 Paper](https://arxiv.org/abs/2407.16741)] [[💻 Code](https://github.com/All-Hands-AI/OpenHands)]
 - (*Arxiv'25*) CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation [[📝 Paper](https://arxiv.org/abs/2501.07811)]
 - (Arxiv’25) AlphaEvolve: A coding agent for scientific and algorithmic discovery [[📝 Paper](https://arxiv.org/abs/2506.13131)]
 - (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
@@ -260,10 +260,9 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 
 #### 3.2.2 📌 Code Debugging
 
-- (*ACL'23*) Self-Edit: Fault-Aware Code Editor for Code Generation [[📝 Paper](https://aclanthology.org/2023.acl-long.569/)] [[💻 Code](https://github.com/mzwang1998/Self-Edit)]
+- (*ACL'23*) Self-Edit: Fault-Aware Code Editor for Code Generation [[📝 Paper](https://arxiv.org/abs/2305.04087)]
 - (*ICLR'24*) Teaching Large Language Models to Self-Debug [[📝 Paper](https://arxiv.org/abs/2304.05128)]
-- (*ICA'24*) RGD: Multi-LLM based agent debugger via refinement and generation
-guidance. [[📝 Paper](https://arxiv.org/abs/2410.01242)]
+- (*ICA'24*) RGD: Multi-LLM based agent debugger via refinement and generation guidance. [[📝 Paper](https://arxiv.org/abs/2410.01242)]
 - (*Arxiv'25*) Large Language Model Guided Self-Debugging Code Generation [[📝 Paper](https://arxiv.org/abs/2502.02928)]
 
 
