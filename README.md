@@ -158,7 +158,7 @@
 - (*Arxiv'25*) Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use [[📝 Paper](https://arxiv.org/abs/2504.04736)] 
 - (*Arxiv'25*) Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/SPORT-Agents/SPORT-Agents)]  
 - (*Arxiv'25*) Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2505.16410)] [[💻 Code](https://github.com/RUC-NLPIR/Tool-Star)] 
-- (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
+- (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2507.19849)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
 
 
 #### 1.4.2 📌 Inference-Time Tool Optimisation 
