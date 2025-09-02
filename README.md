@@ -187,6 +187,7 @@
 
 
 ## 2. Multi-Agent Optimisation 
+- (*Arxiv' 25*) R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution [[📝 Paper](https://arxiv.org/abs/2505.14738)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
 - (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)] [[💻Code](https://github.com/bingreeky/MaAS)]
 - (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[📝 Paper](https://arxiv.org/abs/2503.03205)]
 - (*ICLR'25*) AFlow: Automating Agentic Workflow Generation [[📝 Paper](https://arxiv.org/abs/2410.10762)] [[💻 Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)]
@@ -213,6 +214,7 @@
 - (*Arxiv'24*) Adaptive In-Conversation Team Building for Language Model Agents [[📝 Paper](https://arxiv.org/abs/2405.19425)]
 - (*Arxiv'25*) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL [[📝 Paper](https://arxiv.org/abs/2508.13167)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models)]
 - (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [[📝 Paper](https://arxiv.org/abs/2507.06229)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB)]
+
 
 
 
@@ -270,11 +272,10 @@ Medical Diagnosis via Reasoning Agentic Workflow [[📝 Paper](https://arxiv.org
 
 ### 3.4 💰📚 Financial and Legal Research 
 
-#### 3.4.1 📌 Financial Decision-Making 
-
+#### 3.4.1 📌 Financial Decision-Making
+- (*NeurIPS'25*) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making [[📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)] [[💻 Code](https://github.com/The-FinAI/FinCon)]
 - (*AAAI'24*) FinRobot: an open-source ai agent platform for financial applications using large language models [[📝 Paper](https://arxiv.org/abs/2405.14767)] [[💻 Code](https://github.com/AI4Finance-Foundation/FinRobot)]
 - (*Arxiv'24*) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods [[📝 Paper](https://arxiv.org/abs/2405.03800)] [[💻 Code](https://github.com/agentuniverse-ai/agentUniverse)]
-- (*NeurIPS'25*) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making [[📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)] [[💻 Code](https://github.com/The-FinAI/FinCon)]
 - (*Arxiv'25*) R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization [[📝 Paper](https://arxiv.org/abs/2505.15155)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
 
 #### 3.4.2 📌 Legal Reasoning
