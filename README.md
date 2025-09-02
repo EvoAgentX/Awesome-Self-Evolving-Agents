@@ -275,6 +275,7 @@ Medical Diagnosis via Reasoning Agentic Workflow [[📝 Paper](https://arxiv.org
 - (*AAAI'24*) FinRobot: an open-source ai agent platform for financial applications using large language models [[📝 Paper](https://arxiv.org/abs/2405.14767)] [[💻 Code](https://github.com/AI4Finance-Foundation/FinRobot)]
 - (*Arxiv'24*) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods [[📝 Paper](https://arxiv.org/abs/2405.03800)] [[💻 Code](https://github.com/agentuniverse-ai/agentUniverse)]
 - (*NeurIPS'25*) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making [[📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)] [[💻 Code](https://github.com/The-FinAI/FinCon)]
+- (*Arxiv'25*) R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization [[📝 Paper](https://arxiv.org/abs/2505.15155)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
 
 #### 3.4.2 📌 Legal Reasoning
 - (*Arxiv'24*) LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation [[📝 Paper](https://arxiv.org/abs/2408.07434)]
