@@ -9,7 +9,7 @@
 
 
 [![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
-[![arXiv](https://img.shields.io/badge/Arxiv-Self_Evoloving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
+[![arXiv](https://img.shields.io/badge/Arxiv-Self_Evolving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents/pulls)
 [![GitHub star chart](https://img.shields.io/github/stars/EvoAgentX/Awesome-Self-Evolving-Agents?style=social)](https://star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
@@ -131,7 +131,7 @@
 - (*ACL'25*) Improving factuality with explicit working memory [[📝 Paper](https://arxiv.org/abs/2412.18069)]
 - (*Arxiv'25*) A-MEM: Agentic Memory for LLM Agents [[📝 Paper](https://arxiv.org/abs/2502.12110)]
 - (*Arxiv'25*) Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2504.19413)]
-- (Arxiv'25) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [[📝 Paper](https://www.arxiv.org/abs/2508.16153)] [[💻 Code](https://github.com/Agent-on-the-Fly/Memento)]
+- (*Arxiv'25*) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [[📝 Paper](https://www.arxiv.org/abs/2508.16153)] [[💻 Code](https://github.com/Agent-on-the-Fly/Memento)]
 - (*Arxiv'25*) Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.19828)]
 - (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2508.09736)] [[💻 Code](https://github.com/bytedance-seed/m3-agent)] 
 
@@ -265,7 +265,7 @@ Medical Diagnosis via Reasoning Agentic Workflow [[📝 Paper](https://arxiv.org
 
 
 ### 3.3 Scientific Research 
-- (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration \[[📝 Paper](https://arxiv.org/abs/2505.15047)] [[💻 Code](https://github.com/amair-lab/PiFlow)]
+- (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration [[📝 Paper](https://arxiv.org/abs/2505.15047)] [[💻 Code](https://github.com/amair-lab/PiFlow)]
 
 
 ### 3.4 💰📚 Financial and Legal Research 
