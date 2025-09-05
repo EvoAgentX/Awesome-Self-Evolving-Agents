@@ -9,7 +9,7 @@
 
 
 [![Awesome](https://awesome.re/badge.svg?logo=stylelint)](https://awesome.re)
-[![arXiv](https://img.shields.io/badge/Arxiv-Self_Evoloving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
+[![arXiv](https://img.shields.io/badge/Arxiv-Self_Evolving_AI_Agents-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2508.07407)
 [![Contribution Welcome](https://img.shields.io/badge/Contributions-welcome-Green?logo=mercadopago&logoColor=white)](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents/pulls)
 [![GitHub star chart](https://img.shields.io/github/stars/EvoAgentX/Awesome-Self-Evolving-Agents?style=social)](https://star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg?)](LICENSE)
@@ -131,7 +131,7 @@
 - (*ACL'25*) Improving factuality with explicit working memory [[📝 Paper](https://arxiv.org/abs/2412.18069)]
 - (*Arxiv'25*) A-MEM: Agentic Memory for LLM Agents [[📝 Paper](https://arxiv.org/abs/2502.12110)]
 - (*Arxiv'25*) Mem0: Building Production-Ready AI Agents with Scalable Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2504.19413)]
-- (Arxiv'25) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [[📝 Paper](https://www.arxiv.org/abs/2508.16153)] [[💻 Code](https://github.com/Agent-on-the-Fly/Memento)]
+- (*Arxiv'25*) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [[📝 Paper](https://www.arxiv.org/abs/2508.16153)] [[💻 Code](https://github.com/Agent-on-the-Fly/Memento)]
 - (*Arxiv'25*) Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.19828)]
 - (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2508.09736)] [[💻 Code](https://github.com/bytedance-seed/m3-agent)] 
 
@@ -158,7 +158,7 @@
 - (*Arxiv'25*) Synthetic Data Generation & Multi-Step RL for Reasoning & Tool Use [[📝 Paper](https://arxiv.org/abs/2504.04736)] 
 - (*Arxiv'25*) Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/SPORT-Agents/SPORT-Agents)]  
 - (*Arxiv'25*) Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2505.16410)] [[💻 Code](https://github.com/RUC-NLPIR/Tool-Star)] 
-- (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
+- (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2507.19849)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
 
 
 #### 1.4.2 📌 Inference-Time Tool Optimisation 
@@ -230,20 +230,22 @@
 - (*Arxiv'25*) STELLA: Self-Evolving LLM Agent for Biomedical Research [[📝 Paper](https://arxiv.org/abs/2507.02004)][[💻 Code](https://github.com/zaixizhang/STELLA)]
 - (*MICCAI'25*) MedAgentSim: Self-Evolving Multi-Agent Simulations for Realistic Clinical Interactions [[📝 Paper](https://arxiv.org/pdf/2503.22678)] [[💻 Code](https://github.com/MAXNORM8650/MedAgentSim)]
 - (*Arxiv'25*) PathFinder: A Multi-Modal Multi-Agent System
-for Medical Diagnostic Decision-Making Applied to Histopathology [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
-- (*Arxiv'25*) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[💻 Code](https://github.com/KaiChenNJ/MDTeamGPT)]
+for Medical Diagnostic Decision-Making Applied to Histopathology <br> [[📝 Paper](https://arxiv.org/pdf/2502.08916)]
+- (*Arxiv'25*) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation <br> [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[💻 Code](https://github.com/KaiChenNJ/MDTeamGPT)]
 - (*Arxiv'25*) MedAgent-Pro: Towards Evidence-based Multi-modal
-Medical Diagnosis via Reasoning Agentic Workflow [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
+Medical Diagnosis via Reasoning Agentic Workflow <br> [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
 
 
 #### 3.1.2 📌  Molecular Discovery 
-- (*ICLR'24*) CACTUS: Chemistry Agent Connecting Tool-Usage to Science [[📝 Paper](https://arxiv.org/abs/2405.00972)] [[💻 Code](https://github.com/pnnl/cactus)]
-- (*NMI'24*) ChemCrow: Augmenting large language models with chemistry tools [[📝 Paper](https://arxiv.org/abs/2304.05376)] [[💻 Code](https://github.com/ur-whitelab/chemcrow-public)]
-- (*ICLR'25*) ChemAgent: Self-updating Memories in Large Language Models Improves Chemical Reasoning[[📝 Paper](https://arxiv.org/abs/2501.06590)] [[💻 Code](https://github.com/gersteinlab/ChemAgent)]
-- (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents [[📝 Paper](https://openreview.net/forum?id=9YNyiCJE3k)]
-- (*Arxiv'25*) DrugAgent: Automating AI-aided Drug Discovery Programming through LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
-- (*Arxiv'25*) LIDDIA: Language-based Intelligent Drug Discovery Agent [[📝 Paper](https://arxiv.org/abs/2502.13959)]
 
+- (*ACS omega'24*) CACTUS: Chemistry Agent Connecting Tool-Usage to Science [[📝 Paper](https://arxiv.org/abs/2405.00972)] [[💻 Code](https://github.com/pnnl/cactus)]
+- (*NMI'24*) ChemCrow: Augmenting large language models with chemistry tools [[📝 Paper](https://arxiv.org/abs/2304.05376)] [[💻 Code](https://github.com/ur-whitelab/chemcrow-public)]
+- (*ICLR'25*) ChemAgent: Self-updating Library in Large Language Models Improves Chemical Reasoning[[📝 Paper](https://arxiv.org/abs/2501.06590)] [[💻 Code](https://github.com/gersteinlab/ChemAgent)]
+- (*ICLR'25*) OSDA Agent: Leveraging Large Language Models for De Novo Design of Organic Structure Directing Agents [[📝 Paper](https://openreview.net/forum?id=9YNyiCJE3k)]
+- (*Arxiv'25*) DrugAgent: Automating AI-aided Drug Discovery Programming through
+LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
+- (*Arxiv'25*) LIDDIA: Language-based Intelligent Drug Discovery Agent [[📝 Paper](https://arxiv.org/abs/2502.13959)]
+- (*Arxiv'25*) GenoMAS: A Multi-Agent Framework for Scientific Discovery via Code-Driven Gene Expression Analysis <br> [[📝 Paper](https://arxiv.org/abs/2507.21035)] [[💻 Code](https://github.com/Liu-Hy/GenoMAS)]
 
 ### 3.2 💻 Programming
 
@@ -254,9 +256,9 @@ Medical Diagnosis via Reasoning Agentic Workflow [[📝 Paper](https://arxiv.org
 - (*EMNLP'24*) CodeAgent: Autonomous Communicative Agents for Code Review [[📝 Paper](https://aclanthology.org/2024.emnlp-main.632/)] [[💻 Code](https://github.com/Daniel4SE/codeagent)]
 - (*ICLR'25*) OpenHands: An Open Platform for AI Software Developers as Generalist Agents [[📝 Paper](https://arxiv.org/abs/2407.16741)] [[💻 Code](https://github.com/All-Hands-AI/OpenHands)]
 - (*Arxiv'25*) CodeCoR: An LLM-Based Self-Reflective Multi-Agent Framework for Code Generation [[📝 Paper](https://arxiv.org/abs/2501.07811)]
-- (Arxiv’25) AlphaEvolve: A coding agent for scientific and algorithmic discovery [[📝 Paper](https://arxiv.org/abs/2506.13131)] [[💻 Code](https://github.com/codelion/openevolve)]
+- (Arxiv’25) AlphaEvolve: A coding agent for scientific and algorithmic discovery [[📝 Paper](https://arxiv.org/abs/2506.13131)]
 - (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
-
+- (*Software'25*) OpenEvolve: an open-source evolutionary coding agent [[📝 Instructions](https://huggingface.co/blog/codelion/openevolve)] [[💻 Code](https://github.com/codelion/openevolve)]
 
 #### 3.2.2 📌 Code Debugging
 
@@ -267,28 +269,33 @@ Medical Diagnosis via Reasoning Agentic Workflow [[📝 Paper](https://arxiv.org
 
 
 ### 3.3 Scientific Research 
-- (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration \[[📝 Paper](https://arxiv.org/abs/2505.15047)] [[💻 Code](https://github.com/amair-lab/PiFlow)]
+- (*Arxiv’25*) PiFlow: Principle‑aware Scientific Discovery with Multi‑Agent Collaboration [[📝 Paper](https://arxiv.org/abs/2505.15047)] [[💻 Code](https://github.com/amair-lab/PiFlow)]
 
 
 ### 3.4 💰📚 Financial and Legal Research 
 
-#### 3.4.1 📌 Financial Decision-Making
+#### 3.4.1 📌 Financial Decision-Making 
+
 - (*Arxiv'25*) R&D-Agent-Quant: A Multi-Agent Framework for Data-Centric Factors and Model Joint Optimization [[📝 Paper](https://arxiv.org/abs/2505.15155)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
-- (*AAAI'24*) FinRobot: an open-source ai agent platform for financial applications using large language models [[📝 Paper](https://arxiv.org/abs/2405.14767)] [[💻 Code](https://github.com/AI4Finance-Foundation/FinRobot)]
-- (*Arxiv'24*) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods [[📝 Paper](https://arxiv.org/abs/2405.03800)] [[💻 Code](https://github.com/agentuniverse-ai/agentUniverse)]
-- (*NeurIPS'25*) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced financial decision making [[📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)] [[💻 Code](https://github.com/The-FinAI/FinCon)]
+- (*Arxiv'24*) FinRobot: an open-source ai agent platform for financial applications using large language
+models [[📝 Paper](https://arxiv.org/abs/2405.14767)] [[💻 Code](https://github.com/AI4Finance-Foundation/FinRobot)]
+- (*Arxiv'24*) PEER: Expertizing domain-specific tasks with a multi-agent framework and tuning methods [[📝 Paper](https://arxiv.org/abs/2407.06985)] [[💻 Code](https://github.com/agentuniverse-ai/agentUniverse)]
+- (*NeurIPS'25*) Fincon: A synthesized llm multi-agent system with conceptual verbal reinforcement for enhanced
+financial decision making [[📝 Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/f7ae4fe91d96f50abc2211f09b6a7e49-Paper-Conference.pdf)]  [[💻 Code](https://github.com/The-FinAI/FinCon)]
 
 
 #### 3.4.2 📌 Legal Reasoning
-- (*Arxiv'24*) LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation [[📝 Paper](https://arxiv.org/abs/2408.07434)]
-- (*ICIC'24*) Legalgpt: Legal chain of thought for the legal large language model multi-agent framework [[📝 Paper](https://arxiv.org/abs/2406.04614)] [[💻 Code](https://github.com/pengxiao-song/LaWGPT)]
-- (*Arxiv'24*) LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model [[📝 Paper](https://arxiv.org/abs/2406.04614)] [[💻 Code](https://github.com/pengxiao-song/LaWGPT)]
-- (*ACL Findings'25*) AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents [[📝 Paper](https://aclanthology.org/2025.findings-acl.304/)] [[💻 Code](https://github.com/relic-yuexi/AgentCourt)]
+- (*Arxiv'24*) LawLuo: A Multi-Agent Collaborative Framework for Multi-Round Chinese Legal Consultation [[📝 Paper](https://arxiv.org/abs/2407.16252)]
+- (*ICIC'24*) Legalgpt: Legal chain of thought for the legal large
+language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.1007/978-981-97-5678-0_3)]
+- (*Arxiv'24*) LawGPT: A Chinese Legal Knowledge-Enhanced Large Language Model
+ [[📝 Paper](https://arxiv.org/abs/2406.04614)] [[💻 Code](https://github.com/pengxiao-song/LaWGPT)]
+ - (*ACL Findings'25*) AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents [[📝 Paper](https://aclanthology.org/2025.findings-acl.304/)] [[💻 Code](https://github.com/relic-yuexi/AgentCourt)]
 
 
 ### 3.5 🧩 Other Domain-Specific Optimisation
 - (*Arxiv'25*) Agents of Change: Self-Evolving LLM Agents for Strategic Planning [[📝 Paper](https://arxiv.org/abs/2506.04651)]
-- (*Arxiv'25*) EarthLink: A Self-Evolving AI Agent for Climate Science [📝 Paper](https://arxiv.org/abs/2507.17311) [[🖥️ System](https://earthlink.intern-ai.org.cn/)]
+- (*Arxiv'25*) EarthLink: A Self-Evolving AI Agent for Climate Science [[📝 Paper](https://arxiv.org/abs/2507.17311)] [[🖥️ System](https://earthlink.intern-ai.org.cn/)]
 - (*Arxiv'25*) SEAgent: Self-Evolving Computer Use Agent with Autonomous Learning from Experience [[📝 Paper](https://arxiv.org/abs/2508.04700)][[💻 Code](https://github.com/SunzeY/SEAgent)]
 
 
