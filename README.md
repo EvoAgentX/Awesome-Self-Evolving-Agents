@@ -62,6 +62,7 @@
 - (*Arxiv'25*) Absolute Zero: Reinforced Self-play Reasoning with Zero Data [[📝 Paper](https://arxiv.org/abs/2505.03335)]
 - (*Arxiv'25*) R-Zero: Self-Evolving Reasoning LLM from Zero Data [[📝 Paper](https://arxiv.org/abs/2508.05004)] [[💻 Code](https://github.com/Chengsong-Huang/R-Zero)]
 - (*Arxiv'25*) SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2506.24119)] [[💻 Code](https://github.com/spiral-rl/spiral)]
+- (*Arxiv'25*) DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training [[📝 Paper](https://arxiv.org/abs/2507.13833)] [[💻 Code](https://github.com/sii-research/siiRL)]
 
 
 #### 1.1.2 📌 Test-Time Behaviour Optimisation 
@@ -119,6 +120,7 @@
 - (*Arxiv'24*) GRAD-SUM: Leveraging Gradient Summarization for Optimal Prompt Engineering [[📝 Paper](https://arxiv.org/abs/2407.12865)]
 - (*AAAI'25*) Unleashing the Potential of Large Language Models as Prompt Optimizers: Analogical Analysis with Gradient-based Model Optimizers [[📝 Paper](https://arxiv.org/abs/2402.17564)] [[💻 Code](https://github.com/RUCAIBox/GPO)]
 - (*ICML'25*) REVOLVE: Optimizing AI Systems by Tracking Response Evolution in Textual Optimization [[📝 Paper](https://arxiv.org/abs/2412.03092)] [[💻 Code](https://github.com/Peiyance/REVOLVE)]
+- (*Arxiv'25*) PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time [[📝 Paper](https://arxiv.org/abs/2506.06254)]
  
 ### 1.3 🧠 Memory Optimization
 - (*ICML'24*) A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts [[📝 Paper](https://arxiv.org/abs/2402.09727)]
@@ -134,6 +136,7 @@
 - (*Arxiv'25*) Memento: Fine‑tuning LLM Agents without Fine‑tuning LLMs [[📝 Paper](https://www.arxiv.org/abs/2508.16153)] [[💻 Code](https://github.com/Agent-on-the-Fly/Memento)]
 - (*Arxiv'25*) Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.19828)]
 - (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2508.09736)] [[💻 Code](https://github.com/bytedance-seed/m3-agent)] 
+- (*Arxiv'25*) PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time [[📝 Paper](https://arxiv.org/abs/2506.06254)]  
 
 
 ### 1.4 🧰 Tool Optimization
@@ -159,6 +162,7 @@
 - (*Arxiv'25*) Iterative Tool Usage Exploration for Multimodal Agents via Step-wise Preference Tuning [[📝 Paper](https://arxiv.org/abs/2504.21561)] [[💻 Code](https://github.com/SPORT-Agents/SPORT-Agents)]  
 - (*Arxiv'25*) Tool-Star: Empowering LLM-Brained Multi-Tool Reasoner via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2505.16410)] [[💻 Code](https://github.com/RUC-NLPIR/Tool-Star)] 
 - (*Arxiv'25*) Agentic Reinforced Policy Optimization [[📝 Paper](https://arxiv.org/abs/2507.19849)] [[💻 Code](https://github.com/RUC-NLPIR/ARPO)]
+- (*Arxiv'25*) AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2507.21836)] [[💻 Code](https://github.com/weiyifan1023/AutoTIR)]
 
 
 #### 1.4.2 📌 Inference-Time Tool Optimisation 
@@ -212,6 +216,7 @@
 - (*Arxiv'24*) AutoFlow: Automated Workflow Generation for Large Language Model Agents [[📝 Paper](https://arxiv.org/abs/2407.12821)] [[💻 Code](https://github.com/agiresearch/AutoFlow)]
 - (*Arxiv'24*) Symbolic Learning Enables Self-Evolving Agents [[📝 Paper](https://arxiv.org/abs/2406.18532)] [[💻 Code](https://github.com/aiwaves-cn/agents)]
 - (*Arxiv'24*) Adaptive In-Conversation Team Building for Language Model Agents [[📝 Paper](https://arxiv.org/abs/2405.19425)]
+- (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
 - (*Arxiv'25*) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL [[📝 Paper](https://arxiv.org/abs/2508.13167)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models)]
 - (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [[📝 Paper](https://arxiv.org/abs/2507.06229)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB)]
 
@@ -234,6 +239,7 @@ for Medical Diagnostic Decision-Making Applied to Histopathology <br> [[📝 Pap
 - (*Arxiv'25*) MDTeamGPT: A Self-Evolving LLM-based Multi-Agent Framework for Multi-Disciplinary Team Medical Consultation <br> [[📝 Paper](https://arxiv.org/abs/2503.13856)] [[💻 Code](https://github.com/KaiChenNJ/MDTeamGPT)]
 - (*Arxiv'25*) MedAgent-Pro: Towards Evidence-based Multi-modal
 Medical Diagnosis via Reasoning Agentic Workflow <br> [[📝 Paper](https://arxiv.org/pdf/2503.18968)] [[💻 Code](https://github.com/jinlab-imvr/MedAgent-Pro)]
+- (*Arxiv'25*) Structural Entropy Guided Agent for Detecting and Repairing Knowledge Deficiencies in LLMs [[📝 Paper](https://arxiv.org/abs/2505.07184)] [[💻 Code](https://github.com/weiyifan1023/senator)]
 
 
 #### 3.1.2 📌  Molecular Discovery 
@@ -259,6 +265,7 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 - (Arxiv’25) AlphaEvolve: A coding agent for scientific and algorithmic discovery [[📝 Paper](https://arxiv.org/abs/2506.13131)]
 - (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
 - (*Software'25*) OpenEvolve: an open-source evolutionary coding agent [[📝 Instructions](https://huggingface.co/blog/codelion/openevolve)] [[💻 Code](https://github.com/codelion/openevolve)]
+- (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
 
 #### 3.2.2 📌 Code Debugging
 
@@ -321,6 +328,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 
 #### 4.1.3 📌 Coding Agents 
 - (*ICLR'24*) SWE-bench: Can Language Models Resolve Real-World GitHub Issues? [[📝 Paper](https://arxiv.org/abs/2310.06770)] [[💻 Code](https://github.com/SWE-bench/SWE-bench)]
+- (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
 
 #### 4.1.4 Scientific Research Agents 
 - (*Arxiv'25*) DataSciBench: An LLM Agent Benchmark for Data Science [[📝 Paper](https://arxiv.org/abs/2502.13897)] [[💻 Code](https://github.com/THUDM/DataSciBench)]
