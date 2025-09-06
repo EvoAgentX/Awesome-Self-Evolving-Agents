@@ -386,11 +386,10 @@ If you find this survey useful in your research and applications, please cite us
 
 ## ☕ Acknowledgement
 
-We would like to thank Shuyu Guo for his valuable contributions to the early-stage exploration and literature
-review on agent optimisation.
+We would like to thank Shuyu Guo for his valuable contributions to the early-stage exploration and literature review on agent optimisation.
 
 ## ✉️ Contact Us
 
 If you have any questions or suggestions, please feel free to contact us via:
 
-Email: j.fang.2@research.gla.ac.uk and Zaiqiao.Meng@glasgow.ac.uk
+Email: j.fang.2@research.gla.ac.uk and zaiqiao.meng@gmail.com
