@@ -367,6 +367,9 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*Arxiv'23*) Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark [[📝 Paper](https://arxiv.org/abs/2304.03279) ]
 - (*Arxiv'24*) R-Judge: Benchmarking Safety Risk Awareness for LLM Judges [[📝 Paper](https://arxiv.org/abs/2401.10019)] [[💻 Code](https://rjudgebench.github.io/)]
 - (*ACL'25*) SafeLawBench: Towards Safe Alignment of Large Language Models [[📝 Paper](https://arxiv.org/abs/2506.06636) ]
+- - (*Arxiv'25*) Accuracy Paradox in Large Language Models: Regulating Hallucination Risks in Generative AI
+ [[📝 Paper](https://www.arxiv.org/abs/2509.13345) ]
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/Awesome-Self-Evolving-Agents&Date&type=Date)](https://www.star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents&Date&Date)
 
