@@ -383,7 +383,7 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*ACL'25*) SafeLawBench: Towards Safe Alignment of Large Language Models [[📝 Paper](https://arxiv.org/abs/2506.06636) ]
 - (*Arxiv'25*) Accuracy Paradox in Large Language Models: Regulating Hallucination Risks in Generative AI
  [[📝 Paper](https://www.arxiv.org/abs/2509.13345) ]
-- (*ICML'25*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs [[📝 Paper](https://arxiv.org/abs/2410.05295)] [[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)]
+- (*ICLR'25 Spotlight*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs [[📝 Paper](https://arxiv.org/abs/2410.05295)] [[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)]
 - (*ACL'25*) AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection [[📝 Paper](https://arxiv.org/abs/2502.11448)] [[💻 Code](https://github.com/SaFoLab-WISC/AGrail4Agent)]
 
 
