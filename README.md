@@ -36,8 +36,9 @@
 </p>
 
 ## Open-Source Framework
-- (*Arxiv'25*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
+- (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
+- (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
 
 
 ## 1. Single-Agent Optimisation 
@@ -50,7 +51,8 @@
 - (*ICLR'24*) ToRA: A tool-integrated reasoning agent for mathematical problem solving [[📝 Paper](https://arxiv.org/abs/2309.17452)] [[💻 Code](https://github.com/microsoft/ToRA)]
 - (*NeurIPS'22*) STaR : Bootstrapping reasoning with reasoning [[📝 Paper](https://arxiv.org/abs/2203.14465)] [[💻 Code](https://github.com/ezelikman/STaR)]
 - (*Arxiv'24*) NExT: Teaching large language models to reason about code execution [[📝 Paper](https://arxiv.org/abs/2404.14662)]
-- (*EMNLP'24*) MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning [[📝 Paper](https://arxiv.org/abs/2405.07551)] 
+- (*EMNLP'24*) MuMath-Code: Combining Tool-Use Large Language Models with Multi-perspective Data Augmentation for Mathematical Reasoning [[📝 Paper](https://arxiv.org/abs/2405.07551)]
+- (*ICML'25*) MAS-GPT: Training LLMs to build LLM-based multi-agent systems [[📝 Paper](https://arxiv.org/abs/2503.03686)] [[💻 Code](https://github.com/MASWorks/MAS-GPT)]
 
 ##### (2) 🔧 Reinforcement Learning Approaches 
 - (*ICML'24*) Self-Rewarding Language Models [[📝 Paper](https://arxiv.org/abs/2401.10020)] [[💻 Code](https://github.com/lucidrains/self-rewarding-lm-pytorch)]
@@ -63,6 +65,10 @@
 - (*Arxiv'25*) R-Zero: Self-Evolving Reasoning LLM from Zero Data [[📝 Paper](https://arxiv.org/abs/2508.05004)] [[💻 Code](https://github.com/Chengsong-Huang/R-Zero)]
 - (*Arxiv'25*) SPIRAL: Self-Play on Zero-Sum Games Incentivizes Reasoning via Multi-Agent Multi-Turn Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2506.24119)] [[💻 Code](https://github.com/spiral-rl/spiral)]
 - (*Arxiv'25*) DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training [[📝 Paper](https://arxiv.org/abs/2507.13833)] [[💻 Code](https://github.com/sii-research/siiRL)]
+- (*Arxiv'25*) Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified Self-Play [[📝 Paper](https://www.arxiv.org/abs/2509.25541)] [[💻 Code](https://github.com/wangqinsi1/Vision-Zero)]
+- (*Arxiv'25*) Parallel-R1: Towards Parallel Thinking via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2509.07980)] [[💻 Code](https://github.com/zhengkid/Parallel-R1)]
+- (*Arxiv'25*) SSRL: Self-Search Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.10874)] [[💻 Code](https://github.com/TsinghuaC3I/SSRL)]
+- (*Arxiv'25*) SeRL: Self-Play Reinforcement Learning for Large Language Models with Limited Data [[📝 Paper](https://arxiv.org/abs/2505.20347)] [[💻 Code](https://github.com/wantbook-book/SeRL)]
 
 
 #### 1.1.2 📌 Test-Time Behaviour Optimisation 
@@ -152,7 +158,8 @@
 - (*ICLR'25*) Learning Evolving Tools for Large Language Models [[📝 Paper](https://arxiv.org/abs/2410.06617)] [[💻 Code](https://github.com/Chen-GX/ToolEVO)] 
 - (*ICLR'25*) Facilitating Multi-turn Function Calling for LLMs via Compositional Instruction Tuning [[📝 Paper](https://arxiv.org/abs/2410.12952)] [[💻 Code](https://github.com/PKU-Baichuan-MLSystemLab/BUTTON)] 
 - (*ICLR'25*) Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage [[📝 Paper](https://arxiv.org/abs/2412.15606)] [[💻 Code](https://github.com/mat-agent/MAT-Agent)] 
-- (*Arxiv'25*) Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation [[📝 Paper](https://arxiv.org/abs/2503.07826)] 
+- (*Arxiv'25*) Magnet: Multi-turn Tool-use Data Synthesis and Distillation via Graph Translation [[📝 Paper](https://arxiv.org/abs/2503.07826)]
+- (*ICML'25*) Adapting While Learning: Grounding LLMs for Scientific Problems with Intelligent Tool Usage Adaptation [[📝 Paper](https://arxiv.org/abs/2411.00412)] [[💻 Code](https://github.com/Rose-STL-Lab/Adapting-While-Learning)]
 
 
 ##### (2) Reinforcement Learning for Tool Optimisation 
@@ -189,9 +196,15 @@
 
 ### 1.5 🧰 Unified Optimization
 - (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)] [[💻 Code](https://github.com/ECNU-ICALK/ELL-StuLife)]
+- (*Arxiv'25*) EvoAgent: Self-evolving Agent with Continual World Model for Long-Horizon Tasks [[📝 Paper](https://arxiv.org/abs/2502.05907)]
 
 
 ## 2. Multi-Agent Optimisation 
+
+### 2.1 ⚙️ Automatic Multi-Agent Construction
+- （*ICML'25*) MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines [[📝 Paper](https://arxiv.org/abs/2507.22606)] [[💻 Code](https://github.com/SaFoLab-WISC/MetaAgent/)]
+
+### 2.2 🚀 MAS Optimisation 
 - (*Arxiv' 25*) R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution [[📝 Paper](https://arxiv.org/abs/2505.14738)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
 - (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)] [[💻Code](https://github.com/bingreeky/MaAS)]
 - (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[📝 Paper](https://arxiv.org/abs/2503.03205)]
@@ -220,8 +233,6 @@
 - (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
 - (*Arxiv'25*) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL [[📝 Paper](https://arxiv.org/abs/2508.13167)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models)]
 - (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [[📝 Paper](https://arxiv.org/abs/2507.06229)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB)]
-
-
 
 
 ## 3. Domain-Specific Optimisation 
@@ -314,13 +325,16 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*NeurIPS'23*) OpenAGI: When LLM Meets Domain Experts [[📝 Paper](https://arxiv.org/abs/2304.04370)] [[💻 Code](https://github.com/agiresearch/OpenAGI)]
 - (*Arxiv'25*) Building Self-Evolving Agents via Experience-Driven Lifelong Learning: A Framework and Benchmark [[📝 Paper](https://arxiv.org/abs/2508.19005)]
 - (*Arxiv'25*) MLGym: A New Framework and Benchmark for Advancing AI Research Agents [[📝 Paper](https://arxiv.org/abs/2502.14499)] [[💻 Code](https://github.com/facebookresearch/MLGym)]
+- (*Arxiv'25*) X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs [[📝 Paper](https://arxiv.org/abs/2505.16997)] [[💻 Code](https://github.com/MASWorks/X-MAS)]
 
 #### 4.1.1 📌 Tool and API-Driven Agents 
 - (*Arxiv'23*) On the Tool Manipulation Capability of Open-source Large Language Models [[📝 Paper](https://arxiv.org/abs/2305.16504)] [[💻 Code](https://github.com/sambanova/toolbench)]
 - (*EMNLP'23*) API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[📝 Paper](https://arxiv.org/abs/2304.08244)] [[💻 Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 - (*NeurIPS'23*) ToolQA: A Dataset for LLM Question Answering with External Tools [[📝 Paper](https://arxiv.org/abs/2306.13304)] [[💻 Code](https://github.com/night-chen/ToolQA)]
 - (*ICLR'24*) MetaTool Benchmark for Large Language Models: Deciding Whether to Use Tools and Which to Use
- [[📝 Paper](https://arxiv.org/abs/2310.03128)] [[💻 Code](https://github.com/HowieHwong/MetaTool)] 
+ [[📝 Paper](https://arxiv.org/abs/2310.03128)] [[💻 Code](https://github.com/HowieHwong/MetaTool)]
+- (*Arxiv'25*) Enhancing Open-Domain Task-Solving Capability of LLMs via Autonomous Tool Integration from GitHub [[📝 Paper](https://arxiv.org/abs/2312.17294)] [[💻 Code](https://github.com/OpenBMB/OpenAct)]
+- (*Arxiv'25*) LiveMCP-101: Stress Testing and Diagnosing MCP-enabled Agents on Challenging Queries [[📝 Paper](https://arxiv.org/abs/2508.15760)]
 
 #### 4.1.2 📌 Web Navigation and Browsing Agents 
 - (*ICLR'24*) WebArena: A Realistic Web Environment for Building Autonomous Agents [[📝 Paper](https://arxiv.org/abs/2307.13854)] [[💻 Code](https://github.com/web-arena-x/webarena)]
@@ -369,6 +383,8 @@ language model multi-agent framework [[📝 Paper](https://dl.acm.org/doi/10.100
 - (*ACL'25*) SafeLawBench: Towards Safe Alignment of Large Language Models [[📝 Paper](https://arxiv.org/abs/2506.06636) ]
 - (*Arxiv'25*) Accuracy Paradox in Large Language Models: Regulating Hallucination Risks in Generative AI
  [[📝 Paper](https://www.arxiv.org/abs/2509.13345) ]
+- (*ICML'25*) AutoDAN-Turbo: A Lifelong Agent for Strategy Self-Exploration to Jailbreak LLMs [[📝 Paper](https://arxiv.org/abs/2410.05295)] [[💻 Code](https://github.com/SaFoLab-WISC/AutoDAN-Turbo)]
+- (*ACL'25*) AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection [[📝 Paper](https://arxiv.org/abs/2502.11448)] [[💻 Code](https://github.com/SaFoLab-WISC/AGrail4Agent)]
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/Awesome-Self-Evolving-Agents&Date&type=Date)](https://www.star-history.com/#EvoAgentX/Awesome-Self-Evolving-Agents&Date&Date)
