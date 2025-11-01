@@ -278,6 +278,7 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 - (*Arxiv'25*) Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents [[📝 Paper](https://arxiv.org/pdf/2505.22954)] [[💻 Code](https://github.com/jennyzzt/dgm)] 
 - (*Software'25*) OpenEvolve: an open-source evolutionary coding agent [[📝 Instructions](https://huggingface.co/blog/codelion/openevolve)] [[💻 Code](https://github.com/codelion/openevolve)]
 - (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
+- (Arxiv’25) ReVeal: Self-Evolving Code Agents via Reliable Self-Verification [[📝 Paper](https://arxiv.org/abs/2506.11442)]
 
 #### 3.2.2 📌 Code Debugging
 
