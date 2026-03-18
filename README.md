@@ -39,6 +39,7 @@
 - (*EMNLP'25 Demo*) **EvoAgentX**: An Automated Framework for Evolving Agentic Workflows
  [[💻 Code](https://github.com/EvoAgentX/EvoAgentX)] [[📝 Paper](https://arxiv.org/abs/2507.03616)]
 - (*Arxiv'25*) MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems [[📝 Paper](https://arxiv.org/abs/2505.16988)] [[💻 Code](https://github.com/MASWorks/MASLab)]
+- [openclaw-self-evolving](https://github.com/Ramsbaby/openclaw-self-evolving) — Shell-based agent that reads conversation logs weekly and proposes AGENTS.md improvements. Zero LLM calls, 8% false positive rate.
 
 
 ## 1. Single-Agent Optimisation 
@@ -413,3 +414,4 @@ We would like to thank Shuyu Guo for his valuable contributions to the early-sta
 If you have any questions or suggestions, please feel free to contact us via:
 
 Email: j.fang.2@research.gla.ac.uk and zaiqiao.meng@gmail.com
+
