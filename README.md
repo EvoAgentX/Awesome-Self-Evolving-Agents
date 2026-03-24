@@ -92,6 +92,7 @@
 - (*COLM'24*) Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning [[📝 Paper](https://arxiv.org/abs/2401.17686)] [[💻 Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
 - (*AAAI'24*) Graph of thoughts: Solving elaborate problems with large language models [[📝 Paper](https://arxiv.org/abs/2308.09687)] [[💻 Code](https://github.com/spcl/graph-of-thoughts)]
 - (*ICML'25*) Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning [[📝 Paper](https://arxiv.org/abs/2412.09078)] [[💻 Code](https://github.com/iamhankai/Forest-of-Thought)]
+- (*NeurIPS'24*) AIDE: An Automatic Data Science Agent [[📝 Paper](https://arxiv.org/abs/2502.13138)] [[💻 Code](https://github.com/WecoAI/aideml)]
 
 ##### （3）🔧 Reasoning-Based Approaches 
 - (*EMNLP’25*) START: Self‑taught Reasoner with Tools [[📝 Paper](https://arxiv.org/abs/2503.04625)]
