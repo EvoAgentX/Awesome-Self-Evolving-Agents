@@ -233,6 +233,7 @@
 - (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
 - (*Arxiv'25*) Chain‑of‑Agents: End‑to‑End Agent Foundation Models via Multi‑Agent Distillation and Agentic RL [[📝 Paper](https://arxiv.org/abs/2508.13167)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent_Foundation_Models)]
 - (*Arxiv’25*) Agent KB: Leveraging Cross‑Domain Experience for Agentic Problem Solving [[📝 Paper](https://arxiv.org/abs/2507.06229)] [[💻 Code](https://github.com/OPPO-PersonalAI/Agent-KB)]
+- (*Software'25*) Bernstein: Deterministic Multi-Agent Orchestrator with Self-Evolution Mode — analyzes metrics, proposes and sandboxes improvements, auto-applies what passes tests (risk-stratified L0–L3, circuit breaker on regression) [[💻 Code](https://github.com/chernistry-promo/bernstein)]
 
 
 ## 3. Domain-Specific Optimisation 
