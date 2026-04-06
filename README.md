@@ -30,6 +30,7 @@
   <img src="./assets/evolve-path.png" alt="Development Path", width="500">
 </p>
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49-agent self-coordinating system with task registry, quality gates, automatic delegation, and 30-minute heartbeat monitoring for Claude Code.
 ## Conceptual Framework of the Self-Evolving AI Agents
 <p align="center">
   <img src="./assets/evolve-framework.png" alt="Conceptual Framework", width="500">
