@@ -192,6 +192,7 @@
 - (*ICML'24*) Offline Training of Language Model Agents with Functions as Learnable Weights [[📝 Paper](https://arxiv.org/abs/2402.11359)]
 - (*CVPR'24*) CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [[📝 Paper](https://arxiv.org/abs/2312.10908)] [[💻 Code](https://github.com/clova-tool/CLOVA-tool)]
 - (*Arxiv'25*) Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution [[📝 Paper](https://arxiv.org/abs/2505.20286)] [[💻 Code](https://github.com/CharlesQ9/Alita)]
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 
 ### 1.5 🧰 Unified Optimization
