@@ -205,6 +205,7 @@
 - （*ICML'25*) MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines [[📝 Paper](https://arxiv.org/abs/2507.22606)] [[💻 Code](https://github.com/SaFoLab-WISC/MetaAgent/)]
 
 ### 2.2 🚀 MAS Optimisation 
+- (*Arxiv'26*) CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 - (*Arxiv' 25*) R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution [[📝 Paper](https://arxiv.org/abs/2505.14738)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
 - (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)] [[💻Code](https://github.com/bingreeky/MaAS)]
 - (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[📝 Paper](https://arxiv.org/abs/2503.03205)]
