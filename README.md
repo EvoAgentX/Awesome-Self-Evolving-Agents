@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/evoagentx-awesome-self-evolving-agents-badge.png)](https://mseep.ai/app/evoagentx-awesome-self-evolving-agents)
+
 <!-- <h1 align="center">
   <strong>A Comprehensive Survey of Self-Evolving AI Agents<br>A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems</strong>
 </h1> -->
