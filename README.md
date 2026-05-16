@@ -145,7 +145,7 @@
 - (*Arxiv'25*) Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.19828)]
 - (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2508.09736)] [[💻 Code](https://github.com/bytedance-seed/m3-agent)] 
 - (*Arxiv'25*) PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time [[📝 Paper](https://arxiv.org/abs/2506.06254)]  
-
+- (*Arxiv'25*) ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory [[📝 Paper](https://arxiv.org/abs/2509.25140)]
 
 ### 1.4 🧰 Tool Optimization
 
