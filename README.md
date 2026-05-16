@@ -92,6 +92,7 @@
 - (*COLM'24*) Deductive Beam Search: Decoding Deducible Rationale for Chain-of-Thought Reasoning [[📝 Paper](https://arxiv.org/abs/2401.17686)] [[💻 Code](https://github.com/OSU-NLP-Group/Deductive-Beam-Search)]
 - (*AAAI'24*) Graph of thoughts: Solving elaborate problems with large language models [[📝 Paper](https://arxiv.org/abs/2308.09687)] [[💻 Code](https://github.com/spcl/graph-of-thoughts)]
 - (*ICML'25*) Forest-of-Thought: Scaling Test-Time Compute for Enhancing LLM Reasoning [[📝 Paper](https://arxiv.org/abs/2412.09078)] [[💻 Code](https://github.com/iamhankai/Forest-of-Thought)]
+- (*NeurIPS'24*) AIDE: An Automatic Data Science Agent [[📝 Paper](https://arxiv.org/abs/2502.13138)] [[💻 Code](https://github.com/WecoAI/aideml)]
 
 ##### （3）🔧 Reasoning-Based Approaches 
 - (*EMNLP’25*) START: Self‑taught Reasoner with Tools [[📝 Paper](https://arxiv.org/abs/2503.04625)]
@@ -144,7 +145,7 @@
 - (*Arxiv'25*) Memory-R1: Enhancing Large Language Model Agents to Manage and Utilize Memories via Reinforcement Learning [[📝 Paper](https://arxiv.org/abs/2508.19828)]
 - (*Arxiv'25*) Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory [[📝 Paper](https://arxiv.org/abs/2508.09736)] [[💻 Code](https://github.com/bytedance-seed/m3-agent)] 
 - (*Arxiv'25*) PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time [[📝 Paper](https://arxiv.org/abs/2506.06254)]  
-
+- (*Arxiv'25*) ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory [[📝 Paper](https://arxiv.org/abs/2509.25140)]
 
 ### 1.4 🧰 Tool Optimization
 
@@ -205,6 +206,7 @@
 - （*ICML'25*) MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines [[📝 Paper](https://arxiv.org/abs/2507.22606)] [[💻 Code](https://github.com/SaFoLab-WISC/MetaAgent/)]
 
 ### 2.2 🚀 MAS Optimisation 
+- (*Arxiv'26*) CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery [[📝 Paper](https://arxiv.org/abs/2604.01658)] [[💻 Code](https://github.com/Human-Agent-Society/CORAL)]
 - (*Arxiv' 25*) R&D-Agent: Automating Data-Driven AI Solution Building Through LLM-Powered Automated Research, Development, and Evolution [[📝 Paper](https://arxiv.org/abs/2505.14738)] [[💻 Code](https://github.com/microsoft/RD-Agent)]
 - (*ICML'25*) Multi-Agent Architecture Search via Agentic Supernet [[📝 Paper](https://doi.org/10.48550/arXiv.2502.04180)] [[💻Code](https://github.com/bingreeky/MaAS)]
 - (*ICML'25*) MA-LoT: Multi-Agent Lean-based Long Chain-of-Thought Reasoning enhances Formal Theorem Proving [[📝 Paper](https://arxiv.org/abs/2503.03205)]
@@ -280,6 +282,7 @@ LLM Multi-Agent Collaboration [[📝 Paper](https://arxiv.org/pdf/2411.15692)]
 - (*ICLR'25*) Self-Evolving Multi-Agent Collaboration Networks for Software Development [[📝 Paper](https://openreview.net/forum?id=4R71pdPBZp)] [[💻 Code](https://github.com/yuzhu-cai/rSDE-Bench)] 
 - (*Arxiv'25*) ReVeal: Self-Evolving Code Agents via Reliable Self-Verification [[📝 Paper](https://arxiv.org/abs/2506.11442)]
 - (*Arxiv'25*) SEW: Self-Evolving Agentic Workflows for Automated Code Generation [[📝 Paper](https://arxiv.org/abs/2505.18646)] [[💻 Code](https://github.com/CharlesQ9/Self-Evolving-Agents)] 
+- (*ASE'25*) Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly? [[📝 Paper](https://arxiv.org/abs/2511.13646)]
 
 #### 3.2.2 📌 Code Debugging
 
